@@ -7,9 +7,8 @@ function App() {
       <header className="App-header">
 
         Hi Marta!!!!!!
-hjgjhghjbhjnkj
-        Hi Macha
 
+        Here if Francusssss
       </header>
     </div>
   );
